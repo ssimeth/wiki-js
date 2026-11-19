@@ -1,8 +1,8 @@
 ---
 title: Öffentliches IPv6 für Server
 description: Mit öffentlichem IPv6 ist Ihr Server direkt über eine globale IPv6-Adresse erreichbar. Zusätzlich zu den ausgewählten privaten Netzwerken erhält er ein Interface im öffentlichen Netzwerk. Bei einem privaten Netzwerk ist dies die zweite Netzwerkkarte.
-published: false
-date: 2026-11-19T11:51:40.079Z
+published: true
+date: 2026-11-19T12:05:06.474Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T11:51:40.079Z
