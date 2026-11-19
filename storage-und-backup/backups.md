@@ -1,8 +1,8 @@
 ---
 title: Backups für Server, Volumes und Datenbanken
 description: Ein Backup eines Servers sichert seine **Systemplatte**. Weitere angehängte Volumes sind darin nicht enthalten; für jedes Volume erstellen Sie ein eigenes Backup. Das gilt auch für die Systemplatte, wenn Sie Backups direkt in den Volume-Details verwa
-published: false
-date: 2026-11-19T11:54:57.893Z
+published: true
+date: 2026-11-19T12:05:10.885Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T11:51:45.492Z
