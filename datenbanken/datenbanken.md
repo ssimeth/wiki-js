@@ -1,8 +1,8 @@
 ---
 title: Datenbanken erstellen und verwalten
 description: Der verwaltete Datenbankdienst basiert auf OpenStack Trove. In der Konsole verwalten Sie MySQL-, MariaDB- und PostgreSQL-Instanzen. Die im Erstellungsdialog verfügbaren Engines und Versionen hängen vom aktuellen Angebot ab. Eine Instanz ist nur in de
-published: false
-date: 2026-11-19T11:55:02.164Z
+published: true
+date: 2026-11-19T12:04:50.638Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T11:51:19.193Z
