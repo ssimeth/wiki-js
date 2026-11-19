@@ -1,8 +1,8 @@
 ---
 title: Ingress und Dienste im Kubernetes-Cluster
 description: Mit **Ingress (Traefik, Gateway API)** veröffentlichen Sie HTTP- und HTTPS-Anwendungen über die Cluster-IP. Sie können die Option beim Erstellen des Clusters aktivieren oder auf der Cluster-Seite unter **Ingress** über **Aktivieren** einschalten.
-published: false
-date: 2026-11-19T11:51:24.334Z
+published: true
+date: 2026-11-19T12:04:54.506Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T11:51:24.334Z
