@@ -2,7 +2,7 @@
 title: Backups für Server, Volumes und Datenbanken
 description: Ein Backup eines Servers sichert seine **Systemplatte**. Weitere angehängte Volumes sind darin nicht enthalten; für jedes Volume erstellen Sie ein eigenes Backup. Das gilt auch für die Systemplatte, wenn Sie Backups direkt in den Volume-Details verwa
 published: false
-date: 2026-11-19T11:51:45.492Z
+date: 2026-11-19T11:54:57.893Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T11:51:45.492Z
@@ -43,8 +43,6 @@ Weitere Schritte finden Sie unter [Datenbanken](/datenbanken/datenbanken).
 Server, Volumes und Datenbanken können einen automatischen Backup-Plan haben. Aktivieren Sie im jeweiligen Detailseitenabschnitt **Automatische Backups** den Schalter. Wählen Sie unter **Aufbewahren:** **3 Backups**, **5 Backups** oder **7 Backups**. Der Standard sind 7 Backups. Im Abschnitt erscheinen der Status sowie, wenn aktiviert, die Angaben **Nächster Lauf** und **Letzter Lauf**. Bei Servern umfasst auch der automatische Plan ausschließlich die Systemplatte; zusätzliche Volumes benötigen eigene Pläne. Die geplante Ausführung liegt nachts im Zeitfenster 01:00–04:59 Uhr (Europe/Berlin); die konkrete Uhrzeit variiert je Ressource und wird in der Oberfläche angezeigt.
 
 Wenn Sie die Anzahl der aufzubewahrenden Backups verringern, werden ältere automatische Backups beim nächsten Lauf gelöscht. Zum Ausschalten betätigen Sie den Schalter und bestätigen Sie die Deaktivierung. Bereits erstellte Backups bleiben dabei erhalten.
-
-> Automatische Backups sind nur verfügbar, wenn der Backup-Dienst für den jeweiligen Ressourcentyp bereitsteht. Ist die Funktion nicht verfügbar, zeigt die Oberfläche einen entsprechenden Hinweis.
 
 ## Wiederherstellen
 
