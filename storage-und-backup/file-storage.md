@@ -1,8 +1,8 @@
 ---
 title: File Storage
 description: File Storage stellt eine gemeinsame NFS-Freigabe bereit, die mehrere Server und Kubernetes-Pods gleichzeitig einhängen können. Der Dienst verwendet CephFS über OpenStack Manila und stellt den Zugriff per NFS bereit. Öffnen Sie in der Honeycomb Cloud 
-published: false
-date: 2026-11-19T11:51:50.688Z
+published: true
+date: 2026-11-19T12:05:15.781Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T11:51:50.688Z
