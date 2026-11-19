@@ -1,8 +1,8 @@
 ---
 title: Von Kubernetes verwaltete Ressourcen
 description: Die Plattform schützt Cluster-Ressourcen sowohl in der App als auch bei ausgewählten schreibenden Aufrufen über die OpenStack-API. Betroffene Änderungen werden mit HTTP 403 und einem Hinweis auf den zuständigen Kubernetes-Cluster abgewiesen. Die Open
-published: false
-date: 2026-11-19T11:51:10.154Z
+published: true
+date: 2026-11-19T12:04:47.260Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T11:51:10.154Z
