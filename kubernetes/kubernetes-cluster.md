@@ -1,8 +1,8 @@
 ---
 title: Kubernetes-Cluster
 description: Unter **Kubernetes** verwalten Sie Cluster für Ihr Projekt. Die Plattform erstellt und betreibt die Kubernetes-Infrastruktur; Sie verwalten Ihre Anwendungen im Cluster.
-published: false
-date: 2026-11-19T11:51:29.800Z
+published: true
+date: 2026-11-19T12:04:58.556Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T11:51:29.800Z
