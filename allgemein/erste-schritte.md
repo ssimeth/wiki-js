@@ -2,7 +2,7 @@
 title: Erste Schritte in der Honeycomb Cloud Console
 description: Die Konsole zeigt die Ressourcen des ausgewählten Projekts. Prüfen Sie vor dem Erstellen oder Ändern einer Ressource oben unter **Projekt**, ob das richtige Projekt aktiv ist.
 published: true
-date: 2026-11-19T13:20:47.148Z
+date: 2026-11-19T15:33:27.302Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T13:20:47.148Z
@@ -14,7 +14,7 @@ Die Konsole zeigt die Ressourcen des ausgewählten Projekts. Prüfen Sie vor dem
 
 1. Öffnen Sie die Honeycomb Cloud Console.
 2. Geben Sie unter **Domain** Ihre Domain ein und wählen Sie **Weiter**. Bei einer bereits gespeicherten Domain beginnt die Anmeldung direkt mit den Zugangsdaten; über **ändern** wechseln Sie die Domain.
-3. Geben Sie Ihren Benutzernamen im Feld **Benutzer** und Ihr **Passwort** ein. Klicken Sie auf **Anmelden**.
+3. Geben Sie im Feld **E-Mail oder Benutzername** Ihre E-Mail-Adresse und Ihr **Passwort** ein. Klicken Sie auf **Anmelden**. Ihre Zugangsdaten erhalten Sie per E-Mail; dort ist auch der Anmeldename angegeben.
 4. Falls die Zwei-Faktor-Authentifizierung abgefragt wird, geben Sie den **Bestätigungscode** ein und klicken Sie auf **Bestätigen**.
 
 ## Projekt auswählen und wechseln
