@@ -2,7 +2,7 @@
 title: Datenbanken erstellen und verwalten
 description: Der verwaltete Datenbankdienst basiert auf OpenStack Trove. In der Konsole verwalten Sie MySQL-, MariaDB- und PostgreSQL-Instanzen. Die im Erstellungsdialog verfügbaren Engines und Versionen hängen vom aktuellen Angebot ab. Eine Instanz ist nur in de
 published: false
-date: 2026-11-19T11:51:19.193Z
+date: 2026-11-19T11:55:02.164Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T11:51:19.193Z
@@ -63,7 +63,7 @@ Die Wiederherstellung legt eine **neue Instanz** mit gleicher Größe an. Die be
 
 Im Abschnitt **Automatische Backups** auf der Instanz-Detailseite können Sie den Schalter aktivieren und unter **Aufbewahren:** **3 Backups**, **5 Backups** oder **7 Backups** auswählen. Standardmäßig werden 7 Backups aufbewahrt. Der Lauf findet nachts im Zeitfenster 01:00–04:59 Uhr (Europe/Berlin) statt; die konkrete Uhrzeit wird in der Oberfläche als **Nächster Lauf** angezeigt. Status und letzter Lauf werden ebenfalls angezeigt.
 
-Wenn Sie die Aufbewahrung verringern, werden ältere automatische Backups über der ausgewählten Anzahl beim nächsten Lauf gelöscht. Beim Ausschalten bleiben bereits vorhandene Backups erhalten. Automatische Backups sind nur verfügbar, wenn der Backup-Dienst für Ihr Projekt bereitsteht.
+Wenn Sie die Aufbewahrung verringern, werden ältere automatische Backups über der ausgewählten Anzahl beim nächsten Lauf gelöscht. Beim Ausschalten bleiben bereits vorhandene Backups erhalten.
 
 ## Kontingente und Hinweise
 
