@@ -1,8 +1,8 @@
 ---
 title: Netzwerke, Router und Floating IPs
 description: Private Netzwerke verbinden Ihre Server. Ein Subnetz legt den IP-Bereich fest. Ein Router verbindet angeschlossene Subnetze mit dem externen Netzwerk. Eine Floating IP stellt eine öffentliche Adresse für einen Server oder Load Balancer bereit.
-published: false
-date: 2026-11-19T11:51:34.793Z
+published: true
+date: 2026-11-19T12:05:02.391Z
 tags: kundenhilfe
 editor: markdown
 dateCreated: 2026-11-19T11:51:34.793Z
