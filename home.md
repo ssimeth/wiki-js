@@ -1,19 +1,44 @@
 ---
 title: Startseite
-description: 
+description: Übersicht aller Hilfeartikel zur Honeycomb Cloud Console
 published: true
-date: 2024-11-20T19:39:55.871Z
-tags: 
+date: 2026-11-19T13:21:18.825Z
+tags: kundenhilfe
 editor: markdown
 dateCreated: 2024-10-21T09:51:37.747Z
 ---
 
-# Honeycomb Cloud Knowledgebase
+Willkommen in der Hilfe zur Honeycomb Cloud. Hier finden Sie Anleitungen für die Arbeit mit der [Honeycomb Cloud Console](https://console.honeycomb-cloud.de). Jede Seite der Console verlinkt über **Hilfe** direkt auf den passenden Artikel.
 
-Hier finden Sie alle wichtigen Informationen und Hilfsartikel rund um die Einrichtung und den Betrieb unserer Dienste.
+Neu hier? Beginnen Sie mit [Erste Schritte](/allgemein/erste-schritte).
 
-Unsere umfassende Dokumentation bietet Ihnen Schritt-für-Schritt-Anleitungen, Antworten auf häufig gestellte Fragen (FAQs), sowie hilfreiche Tipps zur Fehlerbehebung – alles, was Sie benötigen, um das Beste aus unseren Produkten herauszuholen.
+## Compute
 
-Nutzen Sie die Suchfunktion oben, um schnell die passenden Artikel zu finden, oder stöbern Sie durch unsere Kategorien, um mehr über die Funktionen und Möglichkeiten von Honeycomb Cloud zu erfahren.
+- [Server](/compute/server)
+- [Volumes](/compute/volumes)
 
-Sollten Sie weitere Fragen haben oder Unterstützung benötigen, steht Ihnen unser Support-Team jederzeit zur Verfügung.
+## Netzwerk
+
+- [Netzwerke, Router und Floating IPs](/netzwerk/netzwerke-router-floating-ips)
+- [Öffentliches IPv6 für Server](/netzwerk/oeffentliches-ipv6)
+- [Load Balancer](/netzwerk/load-balancer)
+
+## Sicherheit
+
+- [Security Groups](/sicherheit/security-groups)
+- [SSH Keys](/sicherheit/ssh-keys)
+
+## Storage und Backup
+
+- [Object Storage](/storage-und-backup/object-storage)
+- [File Storage](/storage-und-backup/file-storage)
+- [Backups für Server, Volumes und Datenbanken](/storage-und-backup/backups)
+
+## Managed Services
+
+- [Kubernetes-Cluster](/kubernetes/kubernetes-cluster)
+- [Ingress und Dienste im Kubernetes-Cluster](/kubernetes/ingress-und-dienste)
+- [Von Kubernetes verwaltete Ressourcen](/allgemein/verwaltete-ressourcen)
+- [Datenbanken erstellen und verwalten](/datenbanken/datenbanken)
+
+Sie haben eine Frage, die hier nicht beantwortet wird? Unser Support-Team hilft Ihnen gerne weiter.
